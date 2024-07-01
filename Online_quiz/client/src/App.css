@@ -1,0 +1,82 @@
+.primary-font{
+    font-family: "Lato", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+    color:#4D8076 
+}
+
+.login-background{
+    background-color:#b6faea;
+}
+
+.login-button{
+    color:#4D8076;
+    border-color: #0c0f0f;
+    border-width: 2px;
+}
+
+.login-button:hover{
+    background-color: #00C9A7;
+    color: white;
+}
+
+.login-button:active{
+    background-color: #4D8076;
+    color:white;
+}
+
+.staffandstudent-login-button{
+    background-color: #845EC2;
+    color:white;
+}
+
+.student-button{
+    border-width: 2px;
+    border-color: #00C9A7;
+    color: #00C9A7;
+    border-radius: 50px;
+    padding: 5px 125px;
+    background-color: white;
+    font-size: 20px;
+}
+
+.student-button:hover{
+    color: white;
+    background-color: #00C9A7;
+}
+
+.student-button:after{
+    color: white;
+    background-color: #4D8076;
+}
+
+.question-bg{
+    background-color: #e4fff8;
+    border-color: #4D8076;
+    border-width: 5px;
+}
+
+.staff-addquestion-btn{
+    background-color: #845EC2;
+    color:white;
+}
+
+.staff-addquestion-submit-btn{
+    background-color:#e4fff8;
+    color: #4D8076;
+}
+
+.staff-addquestion-submit-btn:hover{
+    background-color:#00C9A7;
+    color: white;
+}
+
+.staff-addquestion-submit-btn::after{
+    background-color:#4D8076;
+    color: white;
+    
+}
+
+.lists-of-option{
+    text-decoration: none;
+}
